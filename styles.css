@@ -1,3 +1,7 @@
+section {
+    margin-bottom: 150px;
+}
+
 .carousel-inner {
     position: relative;
     z-index: -1;
